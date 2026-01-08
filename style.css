@@ -74,6 +74,9 @@ body main {
 
     min-height: 50vh;
 }
+body span{
+    text-align: center;
+}
 
 body main .title {
     margin: 0 0 .5rem .2rem;
